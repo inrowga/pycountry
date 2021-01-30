@@ -5604,7 +5604,7 @@
     {
       "code": "DO-01-01-01-01-007",
       "name": "Honduras del Oeste",
-      "parent": "01-01",
+      "parent": "01-01-01-01",
       "type": "Neighborhood"
     },    
     {
@@ -5649,77 +5649,222 @@
       "parent": "01-01-01-01-007",
       "type": "Sub neighborhood"
     },      
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
     {
-      "code": "DO-01-01-008",
+      "code": "DO-01-01-01-01-008",
       "name": "Honduras del Norte",
-      "parent": "01-01",
-      "type": "Autonomous sector"
-    },
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },      
     {
-      "code": "DO-01-01-009",
+      "code": "DO-01-01-01-01-008-01",
+      "name": "Honduras del Norte",
+      "parent": "01-01-01-01-008",
+      "type": "Sub neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-008-02",
+      "name": "Sandra I",
+      "parent": "01-01-01-01-008",
+      "type": "Sub neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-008-03",
+      "name": "Sandra II",
+      "parent": "01-01-01-01-008",
+      "type": "Sub neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-008-04",
+      "name": "Luz Consuelo Norte",
+      "parent": "01-01-01-01-008",
+      "type": "Sub neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-008-05",
+      "name": "Proyecto José Contreras",
+      "parent": "01-01-01-01-008",
+      "type": "Sub neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-008-06",
+      "name": "Gacela",
+      "parent": "01-01-01-01-008",
+      "type": "Sub neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-009",
       "name": "Parque Mirador Sur",
-      "parent": "01-01",
-      "type": "Autonomous sector"
-    },
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
     {
-      "code": "DO-01-01-010",
+      "code": "DO-01-01-01-01-009-01",
+      "name": "Parque Mirador Sur",
+      "parent": "01-01-01-01-009",
+      "type": "Sub neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-009-02",
+      "name": "Manresa ó Altagracia",
+      "parent": "01-01-01-01-009",
+      "type": "Sub neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-010",
       "name": "Los Cacicazgos",
-      "parent": "01-01",
-      "type": "Autonomous sector"
-    },
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
     {
-      "code": "DO-01-01-011",
+      "code": "DO-01-01-01-01-010-01",
+      "name": "Los Cacicazgos",
+      "parent": "01-01-01-01-010",
+      "type": "Sub neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-011",
       "name": "Renacimiento",
-      "parent": "01-01",
-      "type": "Autonomous sector"
-    },
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
     {
-      "code": "DO-01-01-012",
+      "code": "DO-01-01-01-01-011-01",
+      "name": "Renacimiento",
+      "parent": "01-01-01-01-011",
+      "type": "Sub neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-011-02",
+      "name": "Urbanización Real",
+      "parent": "01-01-01-01-011",
+      "type": "Sub neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-012",
       "name": "Los Restauradores",
-      "parent": "01-01",
-      "type": "Autonomous sector"
-    },
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
     {
-      "code": "DO-01-01-013",
+      "code": "DO-01-01-01-01-012-01",
+      "name": "Los Restauradores",
+      "parent": "01-01-01-01-012",
+      "type": "Sub neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-012-02",
+      "name": "Residencial Rosmil",
+      "parent": "01-01-01-01-012",
+      "type": "Sub neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-012-03",
+      "name": "Manganagua",
+      "parent": "01-01-01-01-012",
+      "type": "Sub neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-012-04",
+      "name": "Milloncito",
+      "parent": "01-01-01-01-012",
+      "type": "Sub neighborhood"
+    },          
+    {
+      "code": "DO-01-01-01-01-013",
       "name": "San Jerónimo",
-      "parent": "01-01",
-      "type": "Autonomous sector"
-    },
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
     {
-      "code": "DO-01-01-014",
+      "code": "DO-01-01-01-01-013-01",
+      "name": "San Jerónimo",
+      "parent": "01-01-01-01-013",
+      "type": "Sub neighborhood"
+    }, 
+    {
+      "code": "DO-01-01-01-01-013-02",
+      "name": "Estancia Nueva",
+      "parent": "01-01-01-01-013",
+      "type": "Sub neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-013-03",
+      "name": "Ciudad Moderna",
+      "parent": "01-01-01-01-013",
+      "type": "Sub neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-013-04",
+      "name": "Los Pinos",
+      "parent": "01-01-01-01-013",
+      "type": "Sub neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-013-05",
+      "name": "Las Praderas",
+      "parent": "01-01-01-01-013",
+      "type": "Sub neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-013-06",
+      "name": "Los Laureles",
+      "parent": "01-01-01-01-013",
+      "type": "Sub neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-014",
       "name": "Los Jardines",
-      "parent": "01-01",
-      "type": "Autonomous sector"
-    },
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-014-01",
+      "name": "Los Jardines",
+      "parent": "01-01-01-01-014",
+      "type": "Sub neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-014-02",
+      "name": "Los Próceres",
+      "parent": "01-01-01-01-014",
+      "type": "Sub neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-014-03",
+      "name": "Galá",
+      "parent": "01-01-01-01-014",
+      "type": "Sub neighborhood"
+    }, 
+    {
+      "code": "DO-01-01-01-01-014-04",
+      "name": "Constelación",
+      "parent": "01-01-01-01-014",
+      "type": "Sub neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-014-05",
+      "name": "Country Club",
+      "parent": "01-01-01-01-014",
+      "type": "Sub neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-014-06",
+      "name": "La Yagüita",
+      "parent": "01-01-01-01-014",
+      "type": "Sub neighborhood"
+    },     
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
     {
       "code": "DO-01-01-015",
       "name": "Jardín Botánico",
