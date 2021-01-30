@@ -5230,11 +5230,41 @@
       "type": "Borough"
     },
     {
-      "code": "DO-01-01-001",
-      "name": "Los Peralejos",
+      "code": "DO-01-01-01",
+      "name": "Santo Domingo de Guzmán",
       "parent": "01-01",
-      "type": "Autonomous sector"
+      "type": "Borough district"
+    }, 
+    {
+      "code": "DO-01-01-01-01",
+      "name": "Santo Domingo de Guzmán",
+      "parent": "01-01-01",
+      "type": "Section"
     },
+    {
+      "code": "DO-01-01-01-01-001",
+      "name": "Los Peralejos",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    }, 
+    {
+      "code": "DO-01-01-01-01-001-01",
+      "name": "Los Peralejos",
+      "parent": "01-01-01-01-001",
+      "type": "Sub neighborhood"
+    },
+    {
+      "code": "DO-01-01-01-01-001-02",
+      "name": "Los Ángeles",
+      "parent": "01-01-01-01-001",
+      "type": "Sub neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-001-03",
+      "name": "Brisas del Norte",
+      "parent": "01-01-01-01-001",
+      "type": "Sub neighborhood"
+    },   
     {
       "code": "DO-01-01-002",
       "name": "Palma Real",
