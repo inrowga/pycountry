@@ -12656,68 +12656,246 @@
       "parent": "32-05-01-04",
       "type": "Quarter"
     }, 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    {
+      "code": "DO-32-05-01-05",
+      "name": "Mata de Palma",
+      "parent": "32-05-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-05-01-05-001",
+      "name": "Los Cocos",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-05-002",
+      "name": "Cuenca",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-05-003",
+      "name": "La Jagüita",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-05-004",
+      "name": "Valentín",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-05-005",
+      "name": "Las Parras",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-05-006",
+      "name": "La Reforma",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-05-007",
+      "name": "El Porrito o Pomito",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-05-008",
+      "name": "La Granja",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-05-009",
+      "name": "La Barías",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-05-010",
+      "name": "Cerro Cabra",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-05-011",
+      "name": "El CEA",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-05-012",
+      "name": "Santa María",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-05-013",
+      "name": "Poco Agua",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-05-014",
+      "name": "La Picadora",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-05-015",
+      "name": "Capacito",
+      "parent": "32-05-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-06",
+      "name": "Bella Vista",
+      "parent": "32-05-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-05-01-06-001",
+      "name": "Bella Vista",
+      "parent": "32-05-01-06",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-06-002",
+      "name": "Mata Vaca",
+      "parent": "32-05-01-06",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-06-003",
+      "name": "Los Marenos",
+      "parent": "32-05-01-06",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-06-004",
+      "name": "La Piña",
+      "parent": "32-05-01-06",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-02",
+      "name": "Hato Viejo",
+      "parent": "32-05",
+      "type": "Borough district"
+    },
+    {
+      "code": "DO-32-05-02-01",
+      "name": "Estorga (Zona urbana)",
+      "parent": "32-05-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-05-02-01-001",
+      "name": "Estorga",
+      "parent": "32-05-02-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-02-01-001-01",
+      "name": "Estorga",
+      "parent": "32-05-02-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-05-02-02",
+      "name": "Batey II",
+      "parent": "32-05-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-05-02-02-001",
+      "name": "Batey II o Hato Viejo II",
+      "parent": "32-05-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-02-02-002",
+      "name": "El Limón",
+      "parent": "32-05-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-02-02-003",
+      "name": "Hato Viejo",
+      "parent": "32-05-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-02-02-004",
+      "name": "La Gina",
+      "parent": "32-05-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-02-03",
+      "name": "Kilómetro 36b",
+      "parent": "32-05-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-05-02-03-001",
+      "name": "Kilómetro 36b",
+      "parent": "32-05-02-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-02-04",
+      "name": "Estorga",
+      "parent": "32-05-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-05-02-04-001",
+      "name": "Batey Amelia",
+      "parent": "32-05-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-02-04-002",
+      "name": "Mata la Piedra",
+      "parent": "32-05-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-02-04-003",
+      "name": "Juana Jico",
+      "parent": "32-05-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-02-04-004",
+      "name": "La Catalina",
+      "parent": "32-05-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-02-04-005",
+      "name": "Ismael Jiménez o Las Garzas",
+      "parent": "32-05-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-02-04-006",
+      "name": "Los Urbanos",
+      "parent": "32-05-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-02-04-007",
+      "name": "Estorga",
+      "parent": "32-05-02-04",
+      "type": "Quarter"
+    }, 
 
 
 
