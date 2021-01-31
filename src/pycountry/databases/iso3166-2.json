@@ -12212,7 +12212,6 @@
       "parent": "32-04-01-03",
       "type": "Quarter"
     }, 
-
     {
       "code": "DO-32-04-02",
       "name": "La Caleta",
@@ -12327,40 +12326,192 @@
       "parent": "32-04-02-04",
       "type": "Quarter"
     }, 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    {
+      "code": "DO-32-05",
+      "name": "San Antonio de Guerra",
+      "parent": "32",
+      "type": "Borough"
+    },
+    {
+      "code": "DO-32-05-01",
+      "name": "San Antonio de Guerra",
+      "parent": "32-05",
+      "type": "Borough district"
+    },
+    {
+      "code": "DO-32-05-01-01",
+      "name": "San Antonio de Guerra (Zona urbana)",
+      "parent": "32-05-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-05-01-01-001",
+      "name": "Guerra Centro",
+      "parent": "32-05-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-01-001-01",
+      "name": "Guerra Centro",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-05-01-01-001-02",
+      "name": "Guachupita",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-05-01-01-001-03",
+      "name": "Ravelo",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-05-01-01-001-04",
+      "name": "La Esperanza",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-05-01-01-001-05",
+      "name": "V Centenario",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-05-01-01-001-06",
+      "name": "La Cancha",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-05-01-01-001-07",
+      "name": "INVI",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-05-01-01-001-08",
+      "name": "Respaldo La Cancha",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-05-01-01-001-09",
+      "name": "Marcos del Rosario",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-05-01-01-001-10",
+      "name": "José Francisco Peña Gómez",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-05-01-01-001-11",
+      "name": "San Antonio",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-05-01-01-001-12",
+      "name": "Los Guandules o Las Mercedes",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-05-01-01-001-13",
+      "name": "San José",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-05-01-01-001-14",
+      "name": "Residencial San Antonio",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-05-01-01-001-15",
+      "name": "Proyecto INVI CEA I",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-05-01-01-001-16",
+      "name": "Barrio sin Nombre",
+      "parent": "32-05-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-05-01-02",
+      "name": "El Toro",
+      "parent": "32-05-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-05-01-02-001",
+      "name": "El Toro",
+      "parent": "32-05-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-02-002",
+      "name": "La Piedra",
+      "parent": "32-05-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-02-003",
+      "name": "El Fao",
+      "parent": "32-05-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-02-004",
+      "name": "El Mamón",
+      "parent": "32-05-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-02-005",
+      "name": "La Mujarra (Mojarra)",
+      "parent": "32-05-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-02-006",
+      "name": "La Corcobada (Corcovada)",
+      "parent": "32-05-01-02",
+      "type": "Quarter"
+    },
+    {
+      "code": "DO-32-05-01-02-007",
+      "name": "El Viso",
+      "parent": "32-05-01-02",
+      "type": "Quarter"
+    },
+    {
+      "code": "DO-32-05-01-02-008",
+      "name": "Concordia",
+      "parent": "32-05-01-02",
+      "type": "Quarter"
+    },
+    {
+      "code": "DO-32-05-01-02-009",
+      "name": "La Filipina",
+      "parent": "32-05-01-02",
+      "type": "Quarter"
+    },
+    {
+      "code": "DO-32-05-01-02-010",
+      "name": "El Mamey",
+      "parent": "32-05-01-02",
+      "type": "Quarter"
+    },
 
 
 
