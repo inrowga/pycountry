@@ -10040,6 +10040,912 @@
       "parent": "32-02-01-02",
       "type": "Quarter"
     }, 
+    {
+      "code": "DO-32-03",
+      "name": "Santo Domingo Norte",
+      "parent": "32",
+      "type": "Borough"
+    },
+    {
+      "code": "DO-32-03-01",
+      "name": "Santo Domingo Norte",
+      "parent": "32-03",
+      "type": "Borough district"
+    },
+    {
+      "code": "DO-32-03-01-01",
+      "name": "Santo Domingo Norte (Zona urbana)",
+      "parent": "32-03-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-03-01-01-001",
+      "name": "Villa Mella",
+      "parent": "32-03-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-001-01",
+      "name": "Urbanización Eugenio María de Hostos",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-001-02",
+      "name": "Villa Nueva",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-001-03",
+      "name": "Villa Verde",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-001-04",
+      "name": "Valle Hermoso",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-001-05",
+      "name": "Villa del Norte o Campechito I",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-001-06",
+      "name": "Padre Segura o El Fundo",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-07",
+      "name": "Urbanización Los Pinos o Villa Marbón",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-08",
+      "name": "Residencial María 2000",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-09",
+      "name": "Urbanización Sarah Gabriela",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-10",
+      "name": "Residencial Paseo del Llano",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-11",
+      "name": "El Bonito",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-12",
+      "name": "Monte Adentro",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-13",
+      "name": "Marañón I",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-14",
+      "name": "Residencial Carmela",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-15",
+      "name": "Residencial Bambú III",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-16",
+      "name": "Residencial Jardines de Genoveva",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-17",
+      "name": "Vista Bella",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-18",
+      "name": "Residencial La Jabilla",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-19",
+      "name": "El Mamey",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-20",
+      "name": "Ciudad Satélite",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-21",
+      "name": "Haras Nacionales",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-22",
+      "name": "Residencial Diego II",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-23",
+      "name": "Residencial San Felipe",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-24",
+      "name": "Ensanche Luz y Vida",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-25",
+      "name": "María Auxiliadora",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-26",
+      "name": "Villa Jerusalén",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-27",
+      "name": "Carlos Álvarez",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-28",
+      "name": "Paraíso",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-29",
+      "name": "Los Arquéanos",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-30",
+      "name": "Urbanización El Remanso",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-31",
+      "name": "Quilombo",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-32",
+      "name": "Reparto Villa María",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-33",
+      "name": "Marañón II",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-34",
+      "name": "Villa Martina",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-35",
+      "name": "Residencial Mayagui",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-36",
+      "name": "Residencial Palmares de Haras",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-37",
+      "name": "Mata los Indios",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-001-38",
+      "name": "Residencial Maribel",
+      "parent": "32-03-01-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-002",
+      "name": "Santa Cruz",
+      "parent": "32-03-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-002-01",
+      "name": "Santa Cruz",
+      "parent": "32-03-01-01-002",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-002-02",
+      "name": "Las Malvinas",
+      "parent": "32-03-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-002-03",
+      "name": "Residencial Máximo Gómez",
+      "parent": "32-03-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-002-04",
+      "name": "Cachimán",
+      "parent": "32-03-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-002-05",
+      "name": "Zona Industrial La Isabela",
+      "parent": "32-03-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-002-06",
+      "name": "Altos de Sol de Luz",
+      "parent": "32-03-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-002-07",
+      "name": "Cerros de Buena Vista I",
+      "parent": "32-03-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-002-08",
+      "name": "Residencial Jardines de Buena Vista",
+      "parent": "32-03-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-002-09",
+      "name": "Radiante",
+      "parent": "32-03-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-002-10",
+      "name": "Cerros de Buena Vista II",
+      "parent": "32-03-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-002-11",
+      "name": "Campamento Militar",
+      "parent": "32-03-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-002-12",
+      "name": "Sol de Luz",
+      "parent": "32-03-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-002-13",
+      "name": "Zona Franca Industrial de Villa Mella",
+      "parent": "32-03-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-003",
+      "name": "Sabana Perdida",
+      "parent": "32-03-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-003-01",
+      "name": "La Jabilla",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-003-02",
+      "name": "La Barquita",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-003-03",
+      "name": "Los Manguitos",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-04",
+      "name": "Los Coordinadores",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-05",
+      "name": "Residencial Sara Gabriela",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-06",
+      "name": "Moscú",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-07",
+      "name": "2 de Enero",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-08",
+      "name": "Las Colinas del Ozama",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-09",
+      "name": "Cerros de Sabana Perdida",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-10",
+      "name": "Barceló",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-11",
+      "name": "Costa Linda",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-12",
+      "name": "INVI",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-13",
+      "name": "La Cucaracha",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-14",
+      "name": "Altos de Sabana",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-15",
+      "name": "Ensanche Cristal",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-16",
+      "name": "Salome Ureña",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-17",
+      "name": "Villa Blanca I",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-18",
+      "name": "Villa Blanca II",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-19",
+      "name": "El Cachón",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-20",
+      "name": "Villa Emilia",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-21",
+      "name": "Luis Manuel Caraballo",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-22",
+      "name": "Monterey",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-23",
+      "name": "Residencial Elio Franco",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-24",
+      "name": "Altagracia I",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-25",
+      "name": "Altagracia II",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-26",
+      "name": "Sabana Centro",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-27",
+      "name": "La Lotería",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-28",
+      "name": "Enriquillo",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-29",
+      "name": "La Libertad",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-30",
+      "name": "La Restauración",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-31",
+      "name": "Los Palmares I",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-32",
+      "name": "Los Palmares II",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-33",
+      "name": "Residencial Pinar del Norte",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-34",
+      "name": "Residencial Marañón",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-35",
+      "name": "Residencial Claribel",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-36",
+      "name": "Urbanización Los Pinos",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-37",
+      "name": "Residencial Charles de Gaulle",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-38",
+      "name": "Campechito II",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-39",
+      "name": "La Esperanza",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-40",
+      "name": "La Jabilla",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-41",
+      "name": "Cruz Grande",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-42",
+      "name": "Residencial Elsa Patricia",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-43",
+      "name": "Brisas del Este",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-44",
+      "name": "Lotes y Servicios",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-45",
+      "name": "El Majagual",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-46",
+      "name": "Las Antillas (Lotes y Servicios II)",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-47",
+      "name": "El Milloncito I",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-48",
+      "name": "El Milloncito II",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-49",
+      "name": "Nuevo",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-50",
+      "name": "Los Cerros del Yuca",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-51",
+      "name": "Villa Pompa",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-52",
+      "name": "Villa Esperanza I",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-53",
+      "name": "Villa Esperanza II",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-54",
+      "name": "Residencial Noelia",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-55",
+      "name": "Villa Germán",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-56",
+      "name": "Altos de Chavón",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-57",
+      "name": "Las Colinas",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-58",
+      "name": "Los Pinos",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-59",
+      "name": "Villa Morada",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-60",
+      "name": "Agrario",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-61",
+      "name": "Miraflores",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-62",
+      "name": "La Mina",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-63",
+      "name": "Brisa de Los Palmares",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-64",
+      "name": "Progreso",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-65",
+      "name": "Marañón",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-66",
+      "name": "Bello Amanecer",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-67",
+      "name": "Urbanización Cerros del Paraíso",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-68",
+      "name": "Residencial sin nombre en construcción",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-69",
+      "name": "Nuevo",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-70",
+      "name": "Brisas del Ozama",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-003-71",
+      "name": "Altos de los Cerros",
+      "parent": "32-03-01-01-003",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-004",
+      "name": "El Edén",
+      "parent": "32-03-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-004-01",
+      "name": "El Edén",
+      "parent": "32-03-01-01-004",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-004-02",
+      "name": "Respaldo El Edén",
+      "parent": "32-03-01-01-004",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-004-03",
+      "name": "Cerros del Edén",
+      "parent": "32-03-01-01-004",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-004-04",
+      "name": "Colinas del Edén",
+      "parent": "32-03-01-01-004",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-004-05",
+      "name": "Ceuta",
+      "parent": "32-03-01-01-004",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-004-06",
+      "name": "Residencial Micón",
+      "parent": "32-03-01-01-004",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-004-07",
+      "name": "Colinas del Edén III",
+      "parent": "32-03-01-01-004",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-004-08",
+      "name": "Villa Hermosa",
+      "parent": "32-03-01-01-004",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-004-09",
+      "name": "Villa Laura",
+      "parent": "32-03-01-01-004",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-004-10",
+      "name": "Residencial Rumina",
+      "parent": "32-03-01-01-004",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-004-11",
+      "name": "Residencial El Paso",
+      "parent": "32-03-01-01-004",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-004-12",
+      "name": "El Morro",
+      "parent": "32-03-01-01-004",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-004-13",
+      "name": "Residencial Las Palmeras",
+      "parent": "32-03-01-01-004",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-004-14",
+      "name": "La Antena",
+      "parent": "32-03-01-01-004",
+      "type": "Sub quarter"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
