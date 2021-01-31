@@ -12896,244 +12896,750 @@
       "parent": "32-05-02-04",
       "type": "Quarter"
     }, 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    {
+      "code": "DO-32-06",
+      "name": "Los Alcarrizos",
+      "parent": "32",
+      "type": "Borough"
+    },
+    {
+      "code": "DO-32-06-01",
+      "name": "Los Alcarrizos",
+      "parent": "32-06",
+      "type": "Borough district"
+    },
+    {
+      "code": "DO-32-06-01-01",
+      "name": "Los Alcarrizos (Zona urbana)",
+      "parent": "32-06-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-06-01-01-001",
+      "name": "Savica",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-001-01",
+      "name": "Savica",
+      "parent": "32-06-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-06-01-01-002",
+      "name": "Canta la Rana o Barriolandia",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-002-01",
+      "name": "Canta la Rana o Barriolandia",
+      "parent": "32-06-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-002-02",
+      "name": "Los Barrancones",
+      "parent": "32-06-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-002-03",
+      "name": "El INVI",
+      "parent": "32-06-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-002-04",
+      "name": "Obras Públicas",
+      "parent": "32-06-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-003",
+      "name": "Pueblo Nuevo",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-003-01",
+      "name": "Pueblo Nuevo",
+      "parent": "32-06-01-01-003",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-003-02",
+      "name": "Puerto Rico",
+      "parent": "32-06-01-01-003",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-003-03",
+      "name": "Arenoso",
+      "parent": "32-06-01-01-003",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-003-04",
+      "name": "El Progreso",
+      "parent": "32-06-01-01-003",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-003-05",
+      "name": "Savica",
+      "parent": "32-06-01-01-003",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-003-06",
+      "name": "Guachupita",
+      "parent": "32-06-01-01-003",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-003-07",
+      "name": "Alcarrizos Viejo",
+      "parent": "32-06-01-01-003",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-003-08",
+      "name": "El Chucho o La Yuca",
+      "parent": "32-06-01-01-003",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-004",
+      "name": "Las Mercedes",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-004-01",
+      "name": "Las Mercedes I",
+      "parent": "32-06-01-01-004",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-004-02",
+      "name": "Las Mercedes II",
+      "parent": "32-06-01-01-004",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-005",
+      "name": "Los Libertadores",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-005-01",
+      "name": "Los Libertadores",
+      "parent": "32-06-01-01-005",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-005-02",
+      "name": "24 de Abril",
+      "parent": "32-06-01-01-005",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-006",
+      "name": "Altos de Chavón",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-006-01",
+      "name": "Altos de Chavón",
+      "parent": "32-06-01-01-006",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-007",
+      "name": "Los Americanos (Los Ángeles)",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-007-01",
+      "name": "Los Americanos (Los Ángeles)",
+      "parent": "32-06-01-01-007",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-007-02",
+      "name": "Los Americanos II",
+      "parent": "32-06-01-01-007",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-007-03",
+      "name": "Gran Poder de Dios",
+      "parent": "32-06-01-01-007",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-007-04",
+      "name": "Villa San Felipe",
+      "parent": "32-06-01-01-007",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-007-05",
+      "name": "Los Patos",
+      "parent": "32-06-01-01-007",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-007-06",
+      "name": "Villa Colina",
+      "parent": "32-06-01-01-007",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-007-07",
+      "name": "San Miguel",
+      "parent": "32-06-01-01-007",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-008",
+      "name": "Nuevo Amanecer",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-008-01",
+      "name": "Nuevo Amanecer",
+      "parent": "32-06-01-01-008",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-009",
+      "name": "Nazareno o Manzanero",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-009-01",
+      "name": "Nazareno o Manzanero",
+      "parent": "32-06-01-01-009",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-009-02",
+      "name": "Nuevos Horizontes",
+      "parent": "32-06-01-01-009",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-010",
+      "name": "Lebrón",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-010-01",
+      "name": "Lebrón",
+      "parent": "32-06-01-01-010",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-010-02",
+      "name": "Lebroncito",
+      "parent": "32-06-01-01-010",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-010-03",
+      "name": "La Torre",
+      "parent": "32-06-01-01-010",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-011",
+      "name": "La Unión",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-011-01",
+      "name": "La Unión",
+      "parent": "32-06-01-01-011",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-011-02",
+      "name": "El Tamarindo",
+      "parent": "32-06-01-01-011",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-011-03",
+      "name": "La Compuerta",
+      "parent": "32-06-01-01-011",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-011-04",
+      "name": "Zona Franca Industrial Los Alcarrizos",
+      "parent": "32-06-01-01-011",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-012",
+      "name": "La Fe",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-012-01",
+      "name": "La Fe",
+      "parent": "32-06-01-01-012",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-012-02",
+      "name": "Villa Progreso",
+      "parent": "32-06-01-01-012",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-012-03",
+      "name": "La Gloria",
+      "parent": "32-06-01-01-012",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-012-04",
+      "name": "Los Coquitos",
+      "parent": "32-06-01-01-012",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-012-05",
+      "name": "Los Cocos",
+      "parent": "32-06-01-01-012",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-012-06",
+      "name": "Horizonte",
+      "parent": "32-06-01-01-012",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-013",
+      "name": "La Piña",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-013-01",
+      "name": "La Piña",
+      "parent": "32-06-01-01-013",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-013-02",
+      "name": "La Piñita",
+      "parent": "32-06-01-01-013",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-013-03",
+      "name": "Juana Saltitopa",
+      "parent": "32-06-01-01-013",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-014",
+      "name": "Valle Encantado",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-014-01",
+      "name": "Valle Encantado",
+      "parent": "32-06-01-01-014",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-014-02",
+      "name": "Canaán",
+      "parent": "32-06-01-01-014",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-015",
+      "name": "Residencial Los Cerros",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-015-01",
+      "name": "Residencial Los Cerros",
+      "parent": "32-06-01-01-015",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-015-02",
+      "name": "Kilómetro 18",
+      "parent": "32-06-01-01-015",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-015-03",
+      "name": "Residencial La Gloria",
+      "parent": "32-06-01-01-015",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-016",
+      "name": "La Esperanza",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-016-01",
+      "name": "La Esperanza",
+      "parent": "32-06-01-01-016",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-017",
+      "name": "Residencial Los Hidalgos",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-017-01",
+      "name": "Residencial Los Hidalgos",
+      "parent": "32-06-01-01-017",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-018",
+      "name": "Paraíso",
+      "parent": "32-06-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-018-01",
+      "name": "Paraíso",
+      "parent": "32-06-01-01-018",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-01-018-02",
+      "name": "Urbanización Las Mercedes",
+      "parent": "32-06-01-01-018",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-01-02",
+      "name": "Santa Rosa",
+      "parent": "32-06-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-06-01-02-001",
+      "name": "Santa Rosa",
+      "parent": "32-06-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-02",
+      "name": "Palmarejo-Villa Linda",
+      "parent": "32-06",
+      "type": "Borough district"
+    },
+    {
+      "code": "DO-32-06-02-01",
+      "name": "Palmarejo-Villa Linda (Zona urbana)",
+      "parent": "32-06-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-06-02-01-001",
+      "name": "Palmarejo",
+      "parent": "32-06-02-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-02-01-001-01",
+      "name": "Palmarejo",
+      "parent": "32-06-02-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-06-02-02",
+      "name": "Palmarejito",
+      "parent": "32-06-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-06-02-02-001",
+      "name": "Santa Rosa",
+      "parent": "32-06-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-02-02-002",
+      "name": "Palmarejito",
+      "parent": "32-06-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-02-03",
+      "name": "Santa Bárbara",
+      "parent": "32-06-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-06-02-03-001",
+      "name": "Las Flores",
+      "parent": "32-06-02-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-02-03-002",
+      "name": "Santa Bárbara",
+      "parent": "32-06-02-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-02-04",
+      "name": "Villa Linda",
+      "parent": "32-06-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-06-02-04-001",
+      "name": "Los Coquitos",
+      "parent": "32-06-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-02-04-002",
+      "name": "Cerinca",
+      "parent": "32-06-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-02-04-003",
+      "name": "Villa Linda",
+      "parent": "32-06-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-03",
+      "name": "Pantoja",
+      "parent": "32-06",
+      "type": "Borough district"
+    },
+    {
+      "code": "DO-32-06-03-01",
+      "name": "Pantoja (Zona urbana)",
+      "parent": "32-06-03",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-06-03-01-001",
+      "name": "Pantoja",
+      "parent": "32-06-03-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-001-01",
+      "name": "Pantoja",
+      "parent": "32-06-03-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-001-02",
+      "name": "Los Humildes",
+      "parent": "32-06-03-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-001-03",
+      "name": "Residencial Prados de Pantoja",
+      "parent": "32-06-03-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-001-04",
+      "name": "Residencial Los Jardines de Pantoja",
+      "parent": "32-06-03-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-001-05",
+      "name": "Residencial Don Gregorio",
+      "parent": "32-06-03-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-001-06",
+      "name": "Residencial Pantoja",
+      "parent": "32-06-03-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-001-07",
+      "name": "Residencial Don Gregorio III",
+      "parent": "32-06-03-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-001-08",
+      "name": "Residencial Carmen Renata I",
+      "parent": "32-06-03-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-001-09",
+      "name": "Residencial Carmen Renata II",
+      "parent": "32-06-03-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-001-10",
+      "name": "Residencial Carmen Renata III",
+      "parent": "32-06-03-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-06-03-01-001-11",
+      "name": "Residencial Rosa America",
+      "parent": "32-06-03-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-06-03-01-001-12",
+      "name": "Residencial Brisa del Norte",
+      "parent": "32-06-03-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-06-03-01-002",
+      "name": "Urbanización Don Gregorio",
+      "parent": "32-06-03-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-002-01",
+      "name": "Urbanización Don Gregorio",
+      "parent": "32-06-03-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-002-02",
+      "name": "Residencial Punta Arena",
+      "parent": "32-06-03-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-003",
+      "name": "Villa El Palmar",
+      "parent": "32-06-03-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-003-01",
+      "name": "Villa El Palmar",
+      "parent": "32-06-03-01-003",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-004",
+      "name": "Urbanización Proyecto INVI-CEA",
+      "parent": "32-06-03-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-004-01",
+      "name": "Urbanización Proyecto INVI-CEA",
+      "parent": "32-06-03-01-004",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-005",
+      "name": "Villa Morada",
+      "parent": "32-06-03-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-005-01",
+      "name": "Villa Morada",
+      "parent": "32-06-03-01-005",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-006",
+      "name": "Urbanización Villa Pantoja",
+      "parent": "32-06-03-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-006-01",
+      "name": "Urbanización Villa Pantoja",
+      "parent": "32-06-03-01-006",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-007",
+      "name": "La Redención",
+      "parent": "32-06-03-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-007-01",
+      "name": "La Redención",
+      "parent": "32-06-03-01-007",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-007-02",
+      "name": "El Fuiri",
+      "parent": "32-06-03-01-007",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-007-03",
+      "name": "Residencial Alan VI",
+      "parent": "32-06-03-01-007",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-007-04",
+      "name": "Residencial Ciudad del sol",
+      "parent": "32-06-03-01-007",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-007-05",
+      "name": "Los Platanitos",
+      "parent": "32-06-03-01-007",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-008",
+      "name": "Las Colinas o Los Cocos",
+      "parent": "32-06-03-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-008-01",
+      "name": "Las Colinas o Los Cocos",
+      "parent": "32-06-03-01-008",
+      "type": "Sub quarter"
+    }, 
 
 
 
