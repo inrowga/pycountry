@@ -11876,71 +11876,457 @@
       "parent": "32-03-02-08",
       "type": "Quarter"
     }, 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    {
+      "code": "DO-32-04",
+      "name": "Boca Chica",
+      "parent": "32",
+      "type": "Borough"
+    },
+    {
+      "code": "DO-32-04-01",
+      "name": "Boca Chica",
+      "parent": "32-04",
+      "type": "Borough district"
+    },
+    {
+      "code": "DO-32-04-01-01",
+      "name": "Boca Chica (Zona urbana)",
+      "parent": "32-04-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-04-01-01-001",
+      "name": "Boca Chica",
+      "parent": "32-04-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-001-01",
+      "name": "Boca Chica",
+      "parent": "32-04-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-04-01-01-001-02",
+      "name": "Los Coquitos",
+      "parent": "32-04-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-04-01-01-001-03",
+      "name": "Urbanización Europa",
+      "parent": "32-04-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-04-01-01-001-04",
+      "name": "Altos de Chavón",
+      "parent": "32-04-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-001-05",
+      "name": "Jardines de Boca Chica",
+      "parent": "32-04-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-001-06",
+      "name": "Bella Vista",
+      "parent": "32-04-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-001-07",
+      "name": "Altos de Monterrey",
+      "parent": "32-04-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-001-08",
+      "name": "Boca Chica Centro",
+      "parent": "32-04-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-001-09",
+      "name": "Los Tanquecitos",
+      "parent": "32-04-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-001-10",
+      "name": "Monterey (Nuevo)",
+      "parent": "32-04-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-001-11",
+      "name": "Cristo Rey",
+      "parent": "32-04-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-001-12",
+      "name": "Reparto Ibarra",
+      "parent": "32-04-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-001-13",
+      "name": "La Loma",
+      "parent": "32-04-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002",
+      "name": "Andrés",
+      "parent": "32-04-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-01",
+      "name": "Andrés",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-04-01-01-002-02",
+      "name": "La Bobina",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-04-01-01-002-03",
+      "name": "Los Tanquecitos",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-04-01-01-002-04",
+      "name": "Las Mercedes",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-04-01-01-002-05",
+      "name": "La Libertad",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-04-01-01-002-06",
+      "name": "Altagracia",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-04-01-01-002-07",
+      "name": "María Estela",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-08",
+      "name": "Urbanización Brisas del Norte o Los Botados",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-09",
+      "name": "Respaldo María Estela o Villa Andrés",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-10",
+      "name": "Sinaí o de Las Américas",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-11",
+      "name": "INVI CEA",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-12",
+      "name": "Mi Hogar del Este",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-13",
+      "name": "El Higo o Brisas",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-14",
+      "name": "Respaldo El Brisal",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-15",
+      "name": "Azul o Andrés",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-16",
+      "name": "Miramar",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-17",
+      "name": "La Cachaza",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-18",
+      "name": "Monte Adentro",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-19",
+      "name": "La Ceiba",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-20",
+      "name": "El Brisal",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-21",
+      "name": "San Ramón",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-22",
+      "name": "Andrés Centro",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-23",
+      "name": "La Vigía",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-01-002-24",
+      "name": "Guaraguao",
+      "parent": "32-04-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-02",
+      "name": "Cruce de Boca Chica",
+      "parent": "32-04-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-04-01-02-001",
+      "name": "Cruce de Boca Chica",
+      "parent": "32-04-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-02-002",
+      "name": "El Limón",
+      "parent": "32-04-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-02-003",
+      "name": "Kilómetro 36, Carretera Mella",
+      "parent": "32-04-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-02-004",
+      "name": "Los Paredones de Andrés",
+      "parent": "32-04-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-02-005",
+      "name": "Batey Jubey",
+      "parent": "32-04-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-03",
+      "name": "La Malena",
+      "parent": "32-04-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-04-01-03-001",
+      "name": "La Malena",
+      "parent": "32-04-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-03-002",
+      "name": "La Cucama",
+      "parent": "32-04-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-03-003",
+      "name": "La Tumba",
+      "parent": "32-04-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-03-004",
+      "name": "La Ciguapa",
+      "parent": "32-04-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-03-005",
+      "name": "La Bocaina",
+      "parent": "32-04-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-03-006",
+      "name": "Los Bancos de Arena",
+      "parent": "32-04-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-01-03-007",
+      "name": "La Borda",
+      "parent": "32-04-01-03",
+      "type": "Quarter"
+    }, 
+
+    {
+      "code": "DO-32-04-02",
+      "name": "La Caleta",
+      "parent": "32-04",
+      "type": "Borough district"
+    },
+    {
+      "code": "DO-32-04-02-01",
+      "name": "La Caleta (Zona urbana)",
+      "parent": "32-04-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-04-02-01-001",
+      "name": "La Caleta",
+      "parent": "32-04-02-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-02-01-001-01",
+      "name": "La Caleta",
+      "parent": "32-04-02-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-04-02-01-001-02",
+      "name": "Progreso",
+      "parent": "32-04-02-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-04-02-01-001-03",
+      "name": "El Caliche",
+      "parent": "32-04-02-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-04-02-01-001-04",
+      "name": "La Penca",
+      "parent": "32-04-02-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-04-02-01-001-05",
+      "name": "Monte Adentro",
+      "parent": "32-04-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-02-01-001-06",
+      "name": "Paraíso",
+      "parent": "32-04-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-02-01-001-06",
+      "name": "Residencial Panamericano",
+      "parent": "32-04-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-04-02-02",
+      "name": "El Valiente",
+      "parent": "32-04-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-04-02-02-001",
+      "name": "El Valiente",
+      "parent": "32-04-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-02-02-002",
+      "name": "Torre B",
+      "parent": "32-04-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-02-03",
+      "name": "Campo Lindo",
+      "parent": "32-04-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-04-02-03-001",
+      "name": "Campo Lindo",
+      "parent": "32-04-02-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-02-03-002",
+      "name": "La Cien Mil-La Piedra",
+      "parent": "32-04-02-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-02-04",
+      "name": "La Caleta",
+      "parent": "32-04-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-04-02-04-001",
+      "name": "Aeropuerto Internacional",
+      "parent": "32-04-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-04-02-04-002",
+      "name": "El Cachimbo",
+      "parent": "32-04-02-04",
+      "type": "Quarter"
+    }, 
 
 
 
