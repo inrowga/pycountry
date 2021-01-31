@@ -11732,25 +11732,150 @@
       "parent": "32-03-02-04",
       "type": "Quarter"
     }, 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    {
+      "code": "DO-32-03-02-05",
+      "name": "La Bomba",
+      "parent": "32-03-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-03-02-05-001",
+      "name": "La Bomba",
+      "parent": "32-03-02-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-05-002",
+      "name": "Guayabo",
+      "parent": "32-03-02-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-06",
+      "name": "Guanuma",
+      "parent": "32-03-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-03-02-06-001",
+      "name": "Batey Guanuma",
+      "parent": "32-03-02-06",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-06-002",
+      "name": "Mata Redonda",
+      "parent": "32-03-02-06",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-06-003",
+      "name": "La Gina (La Tita)",
+      "parent": "32-03-02-06",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-06-004",
+      "name": "El Hato de Sanguíneo",
+      "parent": "32-03-02-06",
+      "type": "Quarter"
+    },
+    {
+      "code": "DO-32-03-02-07",
+      "name": "Hacienda Estrella",
+      "parent": "32-03-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-03-02-07-001",
+      "name": "Hacienda Estrella",
+      "parent": "32-03-02-07",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-07-002",
+      "name": "El 11 de Hacienda Estrella",
+      "parent": "32-03-02-07",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-07-003",
+      "name": "San Mateo",
+      "parent": "32-03-02-07",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-07-004",
+      "name": "El 10 de Hacienda Estrella",
+      "parent": "32-03-02-07",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-07-005",
+      "name": "La Campaña",
+      "parent": "32-03-02-07",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-07-006",
+      "name": "Los Morenos",
+      "parent": "32-03-02-07",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-08",
+      "name": "La Ceiba",
+      "parent": "32-03-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-03-02-08-001",
+      "name": "La Ceiba",
+      "parent": "32-03-02-08",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-08-002",
+      "name": "La Piña",
+      "parent": "32-03-02-08",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-08-003",
+      "name": "Los Castillos",
+      "parent": "32-03-02-08",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-08-004",
+      "name": "Los Mercedes",
+      "parent": "32-03-02-08",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-08-005",
+      "name": "Los Mambruses",
+      "parent": "32-03-02-08",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-08-006",
+      "name": "La Jaiba",
+      "parent": "32-03-02-08",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-08-007",
+      "name": "Rancho Arriba-Cabón",
+      "parent": "32-03-02-08",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-08-008",
+      "name": "Cruce de Gina",
+      "parent": "32-03-02-08",
+      "type": "Quarter"
+    }, 
 
 
 
