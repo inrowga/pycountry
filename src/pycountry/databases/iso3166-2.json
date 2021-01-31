@@ -12512,30 +12512,150 @@
       "parent": "32-05-01-02",
       "type": "Quarter"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    {
+      "code": "DO-32-05-01-03",
+      "name": "La Joya",
+      "parent": "32-05-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-05-01-03-001",
+      "name": "La Joya",
+      "parent": "32-05-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-03-002",
+      "name": "Los Barreros",
+      "parent": "32-05-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-03-003",
+      "name": "La Guama",
+      "parent": "32-05-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-03-004",
+      "name": "Mata Barraco",
+      "parent": "32-05-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-03-005",
+      "name": "Santa Lucía",
+      "parent": "32-05-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-03-006",
+      "name": "Tierra Blanca",
+      "parent": "32-05-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-03-007",
+      "name": "El Alto",
+      "parent": "32-05-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-03-008",
+      "name": "El Cachón (Los Cachones)",
+      "parent": "32-05-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-03-009",
+      "name": "La Batata",
+      "parent": "32-05-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-03-010",
+      "name": "El Peje",
+      "parent": "32-05-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-03-011",
+      "name": "Ahorca los Perros",
+      "parent": "32-05-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-04",
+      "name": "Enjuagador",
+      "parent": "32-05-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-05-01-04-001",
+      "name": "Cruce de Guerra",
+      "parent": "32-05-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-04-002",
+      "name": "La Estancia",
+      "parent": "32-05-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-04-003",
+      "name": "Bejucal",
+      "parent": "32-05-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-04-004",
+      "name": "Los Berroa",
+      "parent": "32-05-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-04-005",
+      "name": "La Caoba",
+      "parent": "32-05-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-04-006",
+      "name": "El Fao",
+      "parent": "32-05-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-04-007",
+      "name": "La Pluma",
+      "parent": "32-05-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-04-008",
+      "name": "El Cajuilito",
+      "parent": "32-05-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-04-009",
+      "name": "El Coquito",
+      "parent": "32-05-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-04-010",
+      "name": "La Culebra",
+      "parent": "32-05-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-05-01-04-011",
+      "name": "Proyecto Cabreto",
+      "parent": "32-05-01-04",
+      "type": "Quarter"
+    }, 
 
 
 
