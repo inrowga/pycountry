@@ -10898,6 +10898,2799 @@
       "parent": "32-03-01-01-004",
       "type": "Sub quarter"
     },
+    {
+      "code": "DO-32-03-01-01-005",
+      "name": "Guaricano",
+      "parent": "32-03-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-005-01",
+      "name": "Guaricano Central",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-005-02",
+      "name": "Colinas del Arroyo II",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-005-03",
+      "name": "El Batey",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-005-04",
+      "name": "26 de Enero",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-05",
+      "name": "Ciudad Modelo o Satélite",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-06",
+      "name": "La Mina",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-07",
+      "name": "La Esperanza",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-08",
+      "name": "José Francisco Peña Gómez",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-09",
+      "name": "Hermanas Mirabal",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-10",
+      "name": "Mirador Norte",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-11",
+      "name": "Ponce",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-12",
+      "name": "Brisa del Norte",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-13",
+      "name": "Las Palmeras",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-14",
+      "name": "Altos del Parque",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-15",
+      "name": "Parque Mirador Norte",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-16",
+      "name": "Colinas del Arroyo",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-17",
+      "name": "Mirador Isabela o El Dorado",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-18",
+      "name": "Urbanización Primaveral",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-19",
+      "name": "Residencial Colonia de los Doctores",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-20",
+      "name": "Tamarindo",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-21",
+      "name": "La Torre o Imbert",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-22",
+      "name": "El Fundo o Casa Vieja",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-23",
+      "name": "Santa Cruz",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-24",
+      "name": "La Esperanza o Moscú",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-25",
+      "name": "Norte",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-26",
+      "name": "Nueva Isabela",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-27",
+      "name": "Paseo del Parque o Villa María",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-28",
+      "name": "Los Conucos o Los Caciques",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-29",
+      "name": "Vista del Parque",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-30",
+      "name": "Urbanización Santa Cruz",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-31",
+      "name": "Roberto Suriel",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-32",
+      "name": "Nueva América",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-33",
+      "name": "Cerros del Norte",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-34",
+      "name": "Nuevo",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-35",
+      "name": "Residencial Maribel I",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-36",
+      "name": "Urbanización la Carpa",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-37",
+      "name": "Residencial Gran Vereda",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-38",
+      "name": "Residencial Villa del Parque II-A",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-39",
+      "name": "Residencial Ciudad de los Jardines",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-005-40",
+      "name": "Residencial Mira Valle",
+      "parent": "32-03-01-01-005",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-006",
+      "name": "San Felipe",
+      "parent": "32-03-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-006-01",
+      "name": "San Felipe",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-006-02",
+      "name": "La Esperanza",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-01-01-006-03",
+      "name": "Las Flores",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-006-04",
+      "name": "La Paz o La China",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-006-05",
+      "name": "Canaán I",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-006-06",
+      "name": "Canaán II",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-006-07",
+      "name": "Paraíso",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-006-08",
+      "name": "Mata Los Indios",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-006-09",
+      "name": "Urbanización Sol",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-006-10",
+      "name": "Vietnam",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-006-11",
+      "name": "Urbanización San Felipe",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-01-006-12",
+      "name": "Residencial Diómedes",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-006-13",
+      "name": "Punta",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-006-14",
+      "name": "Residencial Las Auroras",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-01-006-15",
+      "name": "El Play",
+      "parent": "32-03-01-01-006",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-03-01-02",
+      "name": "Licey",
+      "parent": "32-03-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-03-01-02-001",
+      "name": "Licey",
+      "parent": "32-03-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-02-002",
+      "name": "Mancebo",
+      "parent": "32-03-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-02-003",
+      "name": "Mata Gorda",
+      "parent": "32-03-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-02-004",
+      "name": "Mata San Juan",
+      "parent": "32-03-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-02-005",
+      "name": "Limonal",
+      "parent": "32-03-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-02-006",
+      "name": "Punta",
+      "parent": "32-03-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-02-007",
+      "name": "Cercadillo",
+      "parent": "32-03-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-03",
+      "name": "Sierra Prieta",
+      "parent": "32-03-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-03-01-03-001",
+      "name": "Sierra Prieta",
+      "parent": "32-03-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-03-002",
+      "name": "Los Vizcaíno",
+      "parent": "32-03-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-03-003",
+      "name": "Buenos Aires",
+      "parent": "32-03-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-03-004",
+      "name": "Hoyos Oscuros",
+      "parent": "32-03-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-03-005",
+      "name": "Kilómetro 26",
+      "parent": "32-03-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-03-006",
+      "name": "Jubileo",
+      "parent": "32-03-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-03-007",
+      "name": "Juan Dinga",
+      "parent": "32-03-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-04",
+      "name": "Duquesa",
+      "parent": "32-03-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-03-01-04-001",
+      "name": "Duquesa",
+      "parent": "32-03-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-04-002",
+      "name": "La Jacagua",
+      "parent": "32-03-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-04-003",
+      "name": "Los Cazabes",
+      "parent": "32-03-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-05",
+      "name": "Higüero",
+      "parent": "32-03-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-03-01-05-001",
+      "name": "Higüero Abajo",
+      "parent": "32-03-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-05-002",
+      "name": "Cajuilito",
+      "parent": "32-03-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-05-003",
+      "name": "La Sabana del Hato",
+      "parent": "32-03-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-05-004",
+      "name": "La Gina",
+      "parent": "32-03-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-05-005",
+      "name": "Los Llanos",
+      "parent": "32-03-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-05-006",
+      "name": "Rincón Yaco",
+      "parent": "32-03-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-06",
+      "name": "La Jagua",
+      "parent": "32-03-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-03-01-06-001",
+      "name": "La Jagua",
+      "parent": "32-03-01-06",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-01-06-002",
+      "name": "Loma de Mateo",
+      "parent": "32-03-01-06",
+      "type": "Quarter"
+    },
+    {
+      "code": "DO-32-03-01-06-003",
+      "name": "La Joya o Los Goya",
+      "parent": "32-03-01-06",
+      "type": "Quarter"
+    },
+    {
+      "code": "DO-32-03-01-06-004",
+      "name": "Los Callejones",
+      "parent": "32-03-01-06",
+      "type": "Quarter"
+    },
+    {
+      "code": "DO-32-03-01-06-005",
+      "name": "Los Mameyes",
+      "parent": "32-03-01-06",
+      "type": "Quarter"
+    },
+    {
+      "code": "DO-32-03-01-06-006",
+      "name": "Amor a Dios",
+      "parent": "32-03-01-06",
+      "type": "Quarter"
+    },
+    {
+      "code": "DO-32-03-01-06-007",
+      "name": "Los Cocos",
+      "parent": "32-03-01-06",
+      "type": "Quarter"
+    },
+    {
+      "code": "DO-32-03-01-06-008",
+      "name": "Los Peralejos",
+      "parent": "32-03-01-06",
+      "type": "Quarter"
+    },
+    {
+      "code": "DO-32-03-01-06-009",
+      "name": "Rincón",
+      "parent": "32-03-01-06",
+      "type": "Quarter"
+    },
+    {
+      "code": "DO-32-03-02",
+      "name": "La Victoria",
+      "parent": "32-03",
+      "type": "Borough district"
+    },
+    {
+      "code": "DO-32-03-02-01",
+      "name": "La Victoria (Zona urbana)",
+      "parent": "32-03-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-03-02-01-001",
+      "name": "La Victoria",
+      "parent": "32-03-02-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-01-001-01",
+      "name": "La Victoria",
+      "parent": "32-03-02-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-02-01-001-02",
+      "name": "Los Guandules",
+      "parent": "32-03-02-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-02-01-001-03",
+      "name": "Gualey",
+      "parent": "32-03-02-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-02-01-001-04",
+      "name": "Los Militares",
+      "parent": "32-03-02-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-03-02-01-001-05",
+      "name": "La Cacata o La Unión",
+      "parent": "32-03-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-01-001-06",
+      "name": "La Vuelta",
+      "parent": "32-03-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-01-001-07",
+      "name": "Las Cañitas",
+      "parent": "32-03-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-01-001-08",
+      "name": "Los Solanos",
+      "parent": "32-03-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-01-001-09",
+      "name": "Los Mañones",
+      "parent": "32-03-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-01-001-10",
+      "name": "Los Redimidos",
+      "parent": "32-03-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-02",
+      "name": "Mal Nombre",
+      "parent": "32-03-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-03-02-02-001",
+      "name": "Mal Nombre",
+      "parent": "32-03-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-02-002",
+      "name": "Punta Larga",
+      "parent": "32-03-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-02-003",
+      "name": "Maricao",
+      "parent": "32-03-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-02-004",
+      "name": "El Dajao",
+      "parent": "32-03-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-02-005",
+      "name": "La Caoba",
+      "parent": "32-03-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-02-006",
+      "name": "Palmilla",
+      "parent": "32-03-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-02-007",
+      "name": "Primavera",
+      "parent": "32-03-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-02-008",
+      "name": "El Corozo",
+      "parent": "32-03-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-02-009",
+      "name": "Juan Tomás",
+      "parent": "32-03-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-02-010",
+      "name": "El Jobo",
+      "parent": "32-03-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-03",
+      "name": "La Virgen",
+      "parent": "32-03-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-03-02-03-001",
+      "name": "La Virgen",
+      "parent": "32-03-02-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-03-002",
+      "name": "San Joaquín",
+      "parent": "32-03-02-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-03-003",
+      "name": "Verdúm",
+      "parent": "32-03-02-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-03-004",
+      "name": "Ferregús",
+      "parent": "32-03-02-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-03-005",
+      "name": "La Culata",
+      "parent": "32-03-02-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-04",
+      "name": "Mata Mamón",
+      "parent": "32-03-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-03-02-04-001",
+      "name": "Mata Mamón",
+      "parent": "32-03-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-04-002",
+      "name": "San Mateo",
+      "parent": "32-03-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-04-003",
+      "name": "La Guabina",
+      "parent": "32-03-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-04-004",
+      "name": "Los Tapia (El Ocho)",
+      "parent": "32-03-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-04-005",
+      "name": "Los Potrazos",
+      "parent": "32-03-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-04-006",
+      "name": "Rincón Dorado",
+      "parent": "32-03-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-04-007",
+      "name": "Los Rosario",
+      "parent": "32-03-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-04-008",
+      "name": "Los Genaro",
+      "parent": "32-03-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-04-009",
+      "name": "El Siete",
+      "parent": "32-03-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-04-010",
+      "name": "Cabón",
+      "parent": "32-03-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-04-011",
+      "name": "Santana",
+      "parent": "32-03-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-04-012",
+      "name": "Aguacate Adentro",
+      "parent": "32-03-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-04-013",
+      "name": "El Higüerito",
+      "parent": "32-03-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-03-02-04-014",
+      "name": "El Ocho",
+      "parent": "32-03-02-04",
+      "type": "Quarter"
+    }, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
