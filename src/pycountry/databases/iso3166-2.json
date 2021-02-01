@@ -13640,159 +13640,605 @@
       "parent": "32-06-03-01-008",
       "type": "Sub quarter"
     }, 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    {
+      "code": "DO-32-06-03-01-009",
+      "name": "Pantoja I",
+      "parent": "32-06-03-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-009-01",
+      "name": "Pantoja I",
+      "parent": "32-06-03-01-009",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-010",
+      "name": "Vista Verde",
+      "parent": "32-06-03-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-010-01",
+      "name": "Vista Verde",
+      "parent": "32-06-03-01-010",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-010-02",
+      "name": "Paraiso",
+      "parent": "32-06-03-01-010",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-010-03",
+      "name": "Cerro del Oeste",
+      "parent": "32-06-03-01-010",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-011",
+      "name": "José Contreras",
+      "parent": "32-06-03-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-011-01",
+      "name": "José Contreras",
+      "parent": "32-06-03-01-011",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-012",
+      "name": "Reparto Samaria",
+      "parent": "32-06-03-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-012-01",
+      "name": "Reparto Samaria",
+      "parent": "32-06-03-01-012",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-012-02",
+      "name": "Los Almendros",
+      "parent": "32-06-03-01-012",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-013",
+      "name": "Residencial Don Miguel",
+      "parent": "32-06-03-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-06-03-01-013-01",
+      "name": "Residencial Don Miguel",
+      "parent": "32-06-03-01-013",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07",
+      "name": "Pedro Brand",
+      "parent": "32",
+      "type": "Borough"
+    },
+    {
+      "code": "DO-32-07-01",
+      "name": "Pedro Brand",
+      "parent": "32-07",
+      "type": "Borough district"
+    },
+    {
+      "code": "DO-32-07-01-01",
+      "name": "Pedro Brand (Zona urbana)",
+      "parent": "32-07-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-07-01-01-001",
+      "name": "Pedro Brand",
+      "parent": "32-07-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-001-01",
+      "name": "Azul",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-07-01-01-001-02",
+      "name": "Mejoramiento Social",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-07-01-01-001-03",
+      "name": "Residencial Marién",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-07-01-01-001-04",
+      "name": "Inca",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-07-01-01-001-05",
+      "name": "Campamento Cimarrón",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-001-06",
+      "name": "Residencial Parque del Sol",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-001-07",
+      "name": "Eduardo Brito",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-001-08",
+      "name": "Residencial Flor de Liz",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-001-09",
+      "name": "Residencial Flor de Loto",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-001-10",
+      "name": "Bella Vista",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-001-11",
+      "name": "Paraíso",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-001-12",
+      "name": "La Esperanza II",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-001-13",
+      "name": "Las Mercedes I",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-001-14",
+      "name": "Brisas de Pedro Brand",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-001-15",
+      "name": "Salomé Ureña",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-001-16",
+      "name": "La Unión",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-001-17",
+      "name": "Kilómetro 28",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-001-18",
+      "name": "Detrás de La Avena o La Isabela",
+      "parent": "32-07-01-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-002",
+      "name": "Los Cocos (Kilómetro 28)",
+      "parent": "32-07-01-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-002-01",
+      "name": "Los Cocos (Kilómetro 28)",
+      "parent": "32-07-01-01-002",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-07-01-01-002-02",
+      "name": "El Tanque",
+      "parent": "32-07-01-01-002",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-07-01-01-002-03",
+      "name": "Oxígeno Dominicano",
+      "parent": "32-07-01-01-002",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-07-01-01-002-04",
+      "name": "La Loma",
+      "parent": "32-07-01-01-002",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-07-01-01-002-05",
+      "name": "Nuevo",
+      "parent": "32-07-01-01-002",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-07-01-01-002-06",
+      "name": "Los Pabellones",
+      "parent": "32-07-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-002-07",
+      "name": "Los Cartones",
+      "parent": "32-07-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-01-002-08",
+      "name": "Loma Linda",
+      "parent": "32-07-01-01-002",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-02",
+      "name": "Los Corozos",
+      "parent": "32-07-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-07-01-02-001",
+      "name": "El Catalán",
+      "parent": "32-07-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-02-002",
+      "name": "Los Corozos",
+      "parent": "32-07-01-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-03",
+      "name": "San Miguel",
+      "parent": "32-07-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-07-01-03-001",
+      "name": "San Miguel",
+      "parent": "32-07-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-03-002",
+      "name": "Mata de Iglesia",
+      "parent": "32-07-01-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-04",
+      "name": "Piedra Gorda",
+      "parent": "32-07-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-07-01-04-001",
+      "name": "Piedra Gorda",
+      "parent": "32-07-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-04-002",
+      "name": "La Montosa",
+      "parent": "32-07-01-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-05",
+      "name": "La Polonia",
+      "parent": "32-07-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-07-01-05-001",
+      "name": "La Polonia",
+      "parent": "32-07-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-05-002",
+      "name": "El Platón",
+      "parent": "32-07-01-05",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-06",
+      "name": "Frasquito Gómez",
+      "parent": "32-07-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-07-01-06-001",
+      "name": "Frasquito Gómez",
+      "parent": "32-07-01-06",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-06-002",
+      "name": "El Puerto",
+      "parent": "32-07-01-06",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-07",
+      "name": "Santa Cruz",
+      "parent": "32-07-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-07-01-07-001",
+      "name": "Santa Cruz",
+      "parent": "32-07-01-07",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-01-07-002",
+      "name": "Hato Viejo",
+      "parent": "32-07-01-07",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-02",
+      "name": "La Guáyiga",
+      "parent": "32-07",
+      "type": "Borough district"
+    },
+    {
+      "code": "DO-32-07-02-01",
+      "name": "La Guáyiga (Zona urbana)",
+      "parent": "32-07-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-07-02-01-001",
+      "name": "La Guáyiga",
+      "parent": "32-07-02-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-02-01-001-01",
+      "name": "La Guáyiga",
+      "parent": "32-07-02-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-07-02-01-001-02",
+      "name": "La Penca (Kilómetro 20 de la Autopista Duarte)",
+      "parent": "32-07-02-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-07-02-01-001-03",
+      "name": "El Brisal",
+      "parent": "32-07-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-02-01-001-04",
+      "name": "Los Coquitos",
+      "parent": "32-07-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-02-01-001-05",
+      "name": "Las Flores",
+      "parent": "32-07-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-02-01-001-06",
+      "name": "La Yagüita",
+      "parent": "32-07-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-02-01-001-07",
+      "name": "San José o Respaldo El Brisal",
+      "parent": "32-07-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-02-01-001-08",
+      "name": "Paraíso",
+      "parent": "32-07-02-01-001",
+      "type": "Sub quarter"
+    }, 
+    {
+      "code": "DO-32-07-02-01-001-09",
+      "name": "Kilómetro 22",
+      "parent": "32-07-02-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-07-02-01-001-10",
+      "name": "Ciudad Satélite",
+      "parent": "32-07-02-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-07-02-01-001-11",
+      "name": "Puerto Rico",
+      "parent": "32-07-02-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-07-02-01-001-12",
+      "name": "Los Coquitos 2",
+      "parent": "32-07-02-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-07-02-01-001-13",
+      "name": "Los Coquitos 3",
+      "parent": "32-07-02-01-001",
+      "type": "Sub quarter"
+    },
+    {
+      "code": "DO-32-07-02-02",
+      "name": "Los García",
+      "parent": "32-07-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-07-02-02-001",
+      "name": "Batey Palamara",
+      "parent": "32-07-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-02-02-002",
+      "name": "Los García",
+      "parent": "32-07-02-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-02-03",
+      "name": "El Pedregal",
+      "parent": "32-07-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-07-02-03-001",
+      "name": "El Pedregal",
+      "parent": "32-07-02-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-02-04",
+      "name": "Yacó",
+      "parent": "32-07-02",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-07-02-04-001",
+      "name": "Yacó",
+      "parent": "32-07-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-02-04-002",
+      "name": "Proyecto Los Guardias",
+      "parent": "32-07-02-04",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-03",
+      "name": "La Cuaba",
+      "parent": "32-07",
+      "type": "Borough district"
+    },
+    {
+      "code": "DO-32-07-03-01",
+      "name": "La Cuaba (Zona urbana)",
+      "parent": "32-07-03",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-07-03-01-001",
+      "name": "La Cuaba",
+      "parent": "32-07-03-01",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-03-01-001-01",
+      "name": "La Cuaba",
+      "parent": "32-07-03-01-001",
+      "type": "Sub quarter"
+    },  
+    {
+      "code": "DO-32-07-03-02",
+      "name": "Los Aguacates",
+      "parent": "32-07-03",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-07-03-02-001",
+      "name": "Los Aguacates",
+      "parent": "32-07-03-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-03-02-002",
+      "name": "Salamanca",
+      "parent": "32-07-03-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-03-02-003",
+      "name": "Arroyo Indio",
+      "parent": "32-07-03-02",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-03-02-004",
+      "name": "La Piña",
+      "parent": "32-07-03-02",
+      "type": "Quarter"
+    }, 
+
+
+
+
+
+    {
+      "code": "DO-32-07-03-03",
+      "name": "La Estancia",
+      "parent": "32-07-03",
+      "type": "Section"
+    },
+    {
+      "code": "DO-32-07-03-03-001",
+      "name": "El Convento",
+      "parent": "32-07-03-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-03-03-002",
+      "name": "La Maleza",
+      "parent": "32-07-03-03",
+      "type": "Quarter"
+    }, 
+    {
+      "code": "DO-32-07-03-03-003",
+      "name": "La Estancia",
+      "parent": "32-07-03-03",
+      "type": "Quarter"
+    }, 
 
 
 
